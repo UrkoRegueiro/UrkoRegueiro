@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Urko
 - 👀 I’m interested in Data Science, AI, Machine learning and Big Data
-- 🌱 I’m currently pursuing the Hack a Boss Bootcamp in "Data Science & Artificial Intelligence"
+- 🌱 I’m currently pursuing the HACKABOSS Bootcamp in "Data Science & Artificial Intelligence"
 - 📫 How to reach me: https://www.linkedin.com/in/urkoregueiro/
 
 <!---
