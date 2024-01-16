@@ -42,24 +42,26 @@
 
 ###
 
-<h1 align="center"> Some of my Projects :books:</h1>
+<h1 align="center"> My Projects :books:</h1>
 
 ###
 
 ### :green_book: <ins> HACKABOSS Projects: </ins> 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [ETL & Análisis - Perfumerías Online Españolas](https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/README.md)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.](https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.](https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [ETL & Análisis - Perfumerías Online Españolas](https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/README.md)
 
 ### :closed_book: <ins> Supervised Learning Projects </ins> 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Diabetes prediction using classification algorithms](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/1-%20Diabetes_Prediction/Diabetes_Study.ipynb)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Car price prediction using Regression algorithms](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/2-%20Car_Price_Prediction/car_price_prediction.ipynb)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Cardiovascular disease prediction using classification algorithms](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/3-%20Cardiovascular_Disease_Prediction/README.md)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Offensive Language detection using NLP](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/4-%20Offensive_Language_Detection/offensive_language_detection.ipynb)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Dog Breed Recognition using CNN](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Supervised_Learning_Projects/5-%20Dog_Breed_Recognition/breed_recognition.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Cardiovascular disease prediction using classification algorithms](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/README.md)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Offensive Language detection using NLP](https://github.com/UrkoRegueiro/Offensive_Language_Detection/blob/main/offensive_language_detection.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Dog Breed Recognition using CNN](https://github.com/UrkoRegueiro/Dog_Breed_Recognition/blob/main/breed_recognition.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Car price prediction using Regression algorithms](https://github.com/UrkoRegueiro/Car_Price_Prediction/blob/main/car_price_prediction.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Diabetes prediction using classification algorithms](https://github.com/UrkoRegueiro/Diabetes_Prediction/blob/main/Diabetes_Study.ipynb)
+
 
 ### :blue_book: <ins> Unsupervised Learning Projects </ins>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Wine Clustering Analysis](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Unsupervised_Learning_Projects/1-%20Wine_Clustering/Wine_clustering.ipynb)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Credit Card Client Segmentation Project](https://github.com/UrkoRegueiro/Machine_Learning_Projects/blob/main/Unsupervised_Learning_Projects/2-%20Client_Segmentation/customer_segmentation.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Credit Card Client Segmentation Project](https://github.com/UrkoRegueiro/Client_Segmentation/blob/main/customer_segmentation.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Wine Clustering Analysis](https://github.com/UrkoRegueiro/Wine_Clustering/blob/main/Wine_clustering.ipynb)
+
