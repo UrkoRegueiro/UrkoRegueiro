@@ -42,14 +42,14 @@
 
 ###
 
-<h1 align="center"> My Projects :books:</h1>
+<h1 align="center"> Some of my Projects :books:</h1>
 
 ###
 
 ### :green_book: <ins> HACKABOSS Projects: </ins> 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [ETL & Análisis - Perfumerías Online Españolas](https://github.com/UrkoRegueiro/HACK-A-BOSS-PROJECTS/blob/main/ETL%26Analysis_Online_Perfumeries/README.md)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.](https://github.com/UrkoRegueiro/HACK-A-BOSS-PROJECTS/blob/main/HELOC_Project/README.md)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [ETL & Análisis - Perfumerías Online Españolas](https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/README.md)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.](https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md)
 
 ### :closed_book: <ins> Supervised Learning Projects </ins> 
 
