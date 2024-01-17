@@ -55,7 +55,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Cardiovascular disease prediction using classification algorithms](https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. [Offensive Language detection using NLP](https://github.com/UrkoRegueiro/Offensive_Language_Detection/blob/main/offensive_language_detection.ipynb)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Dog Breed Recognition using CNN](https://github.com/UrkoRegueiro/Dog_Breed_Recognition/blob/main/breed_recognition.ipynb)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. [Dog Breed Recognition using CNN](https://github.com/UrkoRegueiro/Dog_Breed_Recognition/blob/main/README.md)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. [Car price prediction using Regression algorithms](https://github.com/UrkoRegueiro/Car_Price_Prediction/blob/main/car_price_prediction.ipynb)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. [Diabetes prediction using classification algorithms](https://github.com/UrkoRegueiro/Diabetes_Prediction/blob/main/Diabetes_Study.ipynb)
 
