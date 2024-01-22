@@ -24,21 +24,40 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![LateX](https://img.shields.io/badge/-latex-333333?style=flat&logo=latex)
+- 📚 &nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=scipy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
+- 🔧 &nbsp;
+  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark)
+- 📊 &nbsp;
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+- 📞 &nbsp;
+  ![Slack](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
+  ![Discord](https://img.shields.io/badge/-discord-333333?style=flat&logo=discord)
 
 ###
 
