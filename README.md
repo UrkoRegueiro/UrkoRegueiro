@@ -66,6 +66,8 @@
 
 ### :robot: <ins> LLM Projects: </ins> 
 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.
+
 ### :green_book: <ins> HACKABOSS Projects: </ins> 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Un viaje por el mercado Tech español.](https://applicatech.streamlit.app/)
