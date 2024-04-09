@@ -66,7 +66,7 @@
 
 ### :robot: <ins> LLM Projects: </ins> 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. [Asistente de la Universidad de Santiago.](https://github.com/UrkoRegueiro/usc_assistant/blob/master/README.md)
 
 ### :green_book: <ins> HACKABOSS Projects: </ins> 
 
