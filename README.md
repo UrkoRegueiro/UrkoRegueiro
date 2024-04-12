@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Urko from Spain<br><br>- 🔭 I’m a Physicist and Junior Data Scientist<br>- 📚 I'm currently learning about LLM's, RAG techniques and Agents.<br>- ⚡ In my free time I enjoy reading and rock climbing</p>
+<p align="left">I'm Urko from Spain<br><br>- 🔭 I’m a Physicist and Data Scientist<br>- 📚 I'm currently learning about LLM's, RAG techniques and Agents.<br>- ⚡ In my free time I enjoy reading and rock climbing</p>
 
 ###
 
