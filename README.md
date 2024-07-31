@@ -51,14 +51,14 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/bill-info-extractor/blob/master/README.md">Extractor de información en facturas.</a></h4>
 </details>
 
-<details open>
+<details close>
   <summary> :green_book: <ins><strong style="font-size: 1.2em;">HACKABOSS Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://applicatech.streamlit.app/">Un viaje por el mercado Tech español.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md">Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/README.md">ETL & Análisis - Perfumerías Online Españolas</a></h4>
 </details>
 
-<details open>
+<details close>
   <summary> :closed_book: <ins><strong style="font-size: 1.2em;">Supervised Learning Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/README.md">Cardiovascular disease prediction using classification algorithms</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/Offensive_Language_Detection/blob/main/offensive_language_detection.ipynb">Offensive Language detection using NLP</a></h4>
@@ -67,7 +67,7 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. <a href="https://github.com/UrkoRegueiro/Diabetes_Prediction/blob/main/Diabetes_Study.ipynb">Diabetes prediction using classification algorithms</a></h4>
 </details>
 
-<details open>
+<details close>
   <summary> :blue_book: <ins><strong style="font-size: 1.2em;">Unsupervised Learning Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/Client_Segmentation/blob/main/customer_segmentation.ipynb">Credit Card Client Segmentation Project</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/Wine_Clustering/blob/main/Wine_clustering.ipynb">Wine Clustering Analysis</a></h4>
