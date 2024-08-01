@@ -43,6 +43,8 @@
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
+![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/languages.svg)
+
 <br>
 
 <h1 align="center"> My Projects :robot::books:</h1>
