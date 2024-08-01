@@ -4,19 +4,17 @@
 
 ###
 
-<h1 align="center">Hi 👋🏽, I'm Urko</h1>
+<h1 align="center" >Hi 👋🏽, I'm Urko</h1>
+<br>
 
+<h2 align="left" >About Me</h2>
 
+- <span style="font-size: 18px; color: #555;">I’m a Physicist and Data Scientist.</span>
+- <span style="font-size: 18px; color: #555;">I'm currently learning about LLM's, RAG techniques and Agents.</span>
+- <span style="font-size: 18px; color: #555;">In my free time I enjoy reading and rock climbing.</span>
+<br>
 
-###
-
-<h3 align="left">👨🏽‍💻  About Me:</h3>
-
-<p align="left">- 🔭 I’m a Physicist and Data Scientist<br>- 📚 I'm currently learning about LLM's, RAG techniques and Agents.<br>- ⚡ In my free time I enjoy reading and rock climbing</p>
-
-###
-
-<h3 align="left">🛠 Languages and tools:</h3>
+<h2 align="left" >Languages and tools</h2>
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -47,7 +45,7 @@
 
 <br>
 
-<h1 align="center"> My Projects :robot::books:</h1>
+<h1 align="center"> My Projects </h1>
 
 <details open>
   <summary> :robot: <ins><strong style="font-size: 1.2em;">LLM Projects:</strong></ins> </summary>
@@ -55,7 +53,7 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/bill-info-extractor/blob/master/README.md">Extractor de información en facturas.</a></h4>
 </details>
 
-<details close>
+<details open>
   <summary> :green_book: <ins><strong style="font-size: 1.2em;">HACKABOSS Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://applicatech.streamlit.app/">Un viaje por el mercado Tech español.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md">Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.</a></h4>
