@@ -12,8 +12,6 @@
 - <span style="font-size: 18px; color: #555;">I’m a Physicist and Data Scientist.</span>
 - <span style="font-size: 18px; color: #555;">I'm currently learning about LLM's, RAG techniques and Agents.</span>
 - <span style="font-size: 18px; color: #555;">In my free time I enjoy reading and rock climbing.</span>
-
-![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/overview.svg)
 <br>
 
 <h2 align="left" >Languages and tools</h2>
@@ -42,12 +40,9 @@
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
-
-![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/languages.svg)
-
 <br>
 
-<h1 align="center"> My Projects </h1>
+<h1 align="center">My Projects</h1>
 
 <details open>
   <summary> :robot: <ins><strong style="font-size: 1.2em;">LLM Projects:</strong></ins> </summary>
@@ -77,4 +72,11 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/Wine_Clustering/blob/main/Wine_clustering.ipynb">Wine Clustering Analysis</a></h4>
 </details>
 
+<h1 align="center"></h1>
 
+<div align="center">
+  
+  ![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/languages.svg)
+  
+</div>
