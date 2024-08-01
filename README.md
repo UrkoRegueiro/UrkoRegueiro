@@ -12,6 +12,8 @@
 - <span style="font-size: 18px; color: #555;">I’m a Physicist and Data Scientist.</span>
 - <span style="font-size: 18px; color: #555;">I'm currently learning about LLM's, RAG techniques and Agents.</span>
 - <span style="font-size: 18px; color: #555;">In my free time I enjoy reading and rock climbing.</span>
+
+![](https://raw.githubusercontent.com/UrkoRegueiro/github-stats-transparent/output/generated/overview.svg)
 <br>
 
 <h2 align="left" >Languages and tools</h2>
