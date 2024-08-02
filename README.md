@@ -9,9 +9,9 @@
 
 <h2 align="left" >About Me</h2>
 
-- <span style="font-size: 18px; color: #555;">I’m a physicist specialized in data science and artificial intelligence.</span>
-- <span style="font-size: 18px; color: #555;">I'm currently learning about LLM's, RAG techniques and Agents.</span>
-- <span style="font-size: 18px; color: #555;">In my free time I enjoy reading and rock climbing.</span>
+- <span>I’m a physicist specialized in data science and artificial intelligence.</span>
+- <span>I'm currently learning about LLM's, RAG techniques and Agents.</span>
+- <span>In my free time I enjoy reading and rock climbing.</span>
 <br>
 
 <h2 align="left" >Languages and tools</h2>
@@ -45,20 +45,20 @@
 <h1 align="center">My Projects</h1>
 
 <details open>
-  <summary> :robot: <ins><strong style="font-size: 1.2em;">LLM Projects:</strong></ins> </summary>
+  <summary> :robot: <ins><strong>LLM Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/usc_assistant/blob/master/README.md">Asistente de la Universidad de Santiago.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/bill-info-extractor/blob/master/README.md">Extractor de información en facturas.</a></h4>
 </details>
 
 <details open>
-  <summary> :green_book: <ins><strong style="font-size: 1.2em;">HACKABOSS Projects:</strong></ins> </summary>
+  <summary> :green_book: <ins><strong>HACKABOSS Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://applicatech.streamlit.app/">Un viaje por el mercado Tech español.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/HELOC_Project/blob/main/README.md">Línea de Crédito con Garantía Hipotecaria. Predicción de Riesgo.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/README.md">ETL & Análisis - Perfumerías Online Españolas</a></h4>
 </details>
 
 <details close>
-  <summary> :closed_book: <ins><strong style="font-size: 1.2em;">Supervised Learning Projects:</strong></ins> </summary>
+  <summary> :closed_book: <ins><strong>Supervised Learning Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/Cardiovascular_Disease_Prediction/blob/main/README.md">Cardiovascular disease prediction using classification algorithms</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/Offensive_Language_Detection/blob/main/offensive_language_detection.ipynb">Offensive Language detection using NLP</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://github.com/UrkoRegueiro/Dog_Breed_Recognition/blob/main/README.md">Dog Breed Recognition using CNN</a></h4>
@@ -67,7 +67,7 @@
 </details>
 
 <details close>
-  <summary> :blue_book: <ins><strong style="font-size: 1.2em;">Unsupervised Learning Projects:</strong></ins> </summary>
+  <summary> :blue_book: <ins><strong">Unsupervised Learning Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/Client_Segmentation/blob/main/customer_segmentation.ipynb">Credit Card Client Segmentation Project</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/Wine_Clustering/blob/main/Wine_clustering.ipynb">Wine Clustering Analysis</a></h4>
 </details>
