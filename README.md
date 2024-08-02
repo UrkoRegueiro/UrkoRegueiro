@@ -9,7 +9,7 @@
 
 <h2 align="left" >About Me</h2>
 
-- <span style="font-size: 18px; color: #555;">I’m a Physicist and Data Scientist.</span>
+- <span style="font-size: 18px; color: #555;">I’m a physicist specialized in data science and artificial intelligence.</span>
 - <span style="font-size: 18px; color: #555;">I'm currently learning about LLM's, RAG techniques and Agents.</span>
 - <span style="font-size: 18px; color: #555;">In my free time I enjoy reading and rock climbing.</span>
 <br>
