@@ -17,28 +17,28 @@
 <h2 align="left" >Languages and tools</h2>
 
 <p align="left"> 
-<a href="https://www.python.org" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org" target="_blank"> <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%232EAB6B" alt="latex" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%233CB9AE" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://devicon-website.vercel.app/api/numpy/original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://scipy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288277?s=48&v=4" alt="scipy" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://plotly.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://devicon-website.vercel.app/api/selenium/original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://devicon-website.vercel.app/api/opencv/original.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://devicon-website.vercel.app/api/pytorch/original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/> </a>
-<a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.python.org" text-decoration: none;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/es-es/pycharm/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://www.mysql.com" text-decoration: none;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" text-decoration: none;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%232EAB6B" alt="latex" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" text-decoration: none;> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%233CB9AE" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/numpy/original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://scipy.org/" text-decoration: none;> <img src="https://avatars.githubusercontent.com/u/288277?s=48&v=4" alt="scipy" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" text-decoration: none;> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" text-decoration: none;> <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://plotly.com/" text-decoration: none;> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/selenium/original.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://opencv.org/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/opencv/original.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" text-decoration: none;> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://keras.io/" text-decoration: none;> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" text-decoration: none;> <img src="https://devicon-website.vercel.app/api/pytorch/original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" text-decoration: none;> <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" text-decoration: none;> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/" text-decoration: none;> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 <br>
 
