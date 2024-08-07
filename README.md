@@ -48,6 +48,7 @@
   <summary> :robot: <ins><strong>LLM Projects:</strong></ins> </summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://github.com/UrkoRegueiro/usc_assistant/blob/master/README.md">Asistente de la Universidad de Santiago.</a></h4>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://github.com/UrkoRegueiro/bill-info-extractor/blob/master/README.md">Extractor de información en facturas.</a></h4>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://urkoregueiro.github.io/crew_project/">Newsletter semanal de economía.</a></h4>
 </details>
 
 <details open>
