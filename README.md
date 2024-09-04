@@ -35,7 +35,7 @@
 <a href="https://scikit-learn.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="60" height="60"/> </a>
 <a href="https://www.tensorflow.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="60" height="60"/> </a>
 <a href="https://keras.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="keras" width="60" height="60"/> </a>
-<a href="https://pytorch.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="60" height="60"/> </a>
+<a href="https://pytorch.org/" > <img src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" alt="pytorch" width="60" height="60"/> </a>
 <a href="https://www.langchain.com/" > <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="60" height="60"/> </a>
 <a href="https://streamlit.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" width="60" height="60"/> </a>
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/" > <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a>
