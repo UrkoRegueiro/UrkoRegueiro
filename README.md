@@ -21,6 +21,7 @@
 <a href="https://www.jetbrains.com/es-es/pycharm/" > <img src="https://devicon-website.vercel.app/api/pycharm/original-wordmark.svg" alt="pycharm" width="60" height="60"/> </a>
 <a href="https://www.mysql.com" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <a href="https://www.docker.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+<a href="https://fastapi.tiangolo.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="60" height="60"/> </a>  
 <a href="https://www.latex-project.org" > <img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%232EAB6B" alt="latex" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://pandas.pydata.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60" height="60"/> </a>
