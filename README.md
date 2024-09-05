@@ -1,11 +1,16 @@
 ---
-<h1 align="center" >
+<p align="center" >
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1&color=27F79A&size=35&center=true&vCenter=true&width=600&height=100&lines=Hello+everyone!;I'm+Urko;Welcome+to+my+Github!"></a>
-</h1>
+</p>
 
-<h2 align="center" >About Me</h2>
+<p align="center"> <strong>Physicist</strong> specialized in data science and artificial intelligence.<br /> Know me better on👇!</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/urkoregueiro" target="_blank" style='margin-right:4px'> 
+      <img align="center" src="https://www.svgrepo.com/show/353999/linkedin.svg" alt="linkedin" height="100px" width="100px" /> 
+   </a>
+</p>
 
-- <span>I’m a physicist specialized in data science and artificial intelligence.</span>
+
 - <span>I'm currently learning about LLM's, RAG techniques and Agents.</span>
 - <span>In my free time I enjoy reading and rock climbing.</span>
 <br>
