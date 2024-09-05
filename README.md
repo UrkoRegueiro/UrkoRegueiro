@@ -3,8 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1&color=27F79A&size=35&center=true&vCenter=true&width=600&height=100&lines=Hello+everyone!;I'm+Urko;Welcome+to+my+Github!"></a>
 </h1>
 
-<br>
-
 <h2 align="center" >About Me</h2>
 
 - <span>I’m a physicist specialized in data science and artificial intelligence.</span>
