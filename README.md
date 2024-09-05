@@ -10,7 +10,7 @@
 - <span>In my free time I enjoy reading and rock climbing.</span>
 <br>
 
-<h2 align="left" >Languages and tools</h2>
+<h2 align="center" >Languages and tools</h2>
 
 <p align="left"> 
 <a href="https://www.python.org" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a>
