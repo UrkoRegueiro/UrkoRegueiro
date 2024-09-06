@@ -35,13 +35,13 @@
     <a href="https://scipy.org/"><img alt="SciPy" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="60" height="60"></a>  
     <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="60" height="60"></a>
     <a href="https://seaborn.pydata.org/"><img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="60" height="60"></a>    
-    <a href="https://plotly.com/"><img alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="60" height="60"></a><br>
+    <a href="https://plotly.com/"><img alt="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="60" height="60"></a>
     <a href="https://www.selenium.dev/"><img alt="selenium" src="https://devicon-website.vercel.app/api/selenium/original.svg" width="60" height="60"></a>
-    <a href="https://opencv.org/"><img alt="OpenCV" src="https://devicon-website.vercel.app/api/opencv/plain-wordmark.svg?color=%2342D636" width="60" height="60"></a>
+    <a href="https://opencv.org/"><img alt="OpenCV" src="https://devicon-website.vercel.app/api/opencv/plain-wordmark.svg?color=%2342D636" width="60" height="60"></a><br> 
     <a href="https://scikit-learn.org/"><img alt="scikitlearn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg?color=%23FF6F00" width="60" height="60"></a>    
     <a href="https://keras.io/"><img alt="keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="60" height="60"></a>
-    <a href="https://pytorch.org/"><img alt="PyTorch" src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60"></a><br> 
+    <a href="https://pytorch.org/"><img alt="PyTorch" src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60"></a>
     <a href="https://www.langchain.com/"><img alt="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="60" height="60"></a>
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://devicon-website.vercel.app/api/fastapi/plain-wordmark.svg?color=%234BDCCF" width="60" height="60"></a>
     <a href="https://streamlit.io/"><img alt="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="60" height="60"></a>    
