@@ -62,8 +62,8 @@
   <summary><h3>Software</h3></summary>
   <p> 
     <a href="https://git-scm.com/"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"  width="60" height="60"></a>
-    <a href="https://www.jetbrains.com/es-es/pycharm/"><img alt="Pycharm" src="https://devicon-website.vercel.app/api/pycharm/original-wordmark.svg" width="60" height="60"></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="60" height="60"></a>
+    <a href="https://www.jetbrains.com/es-es/pycharm/"><img alt="Pycharm" src="https://devicon-website.vercel.app/api/pycharm/original-wordmark.svg" width="60" height="60"></a>
     <a href="https://jupyter.org/"><img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"></a>
     <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi/"><img alt="power-bi" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="60" height="60"></a>
   </p>
