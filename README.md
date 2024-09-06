@@ -42,7 +42,7 @@
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://devicon-website.vercel.app/api/tensorflow/original-wordmark.svg?color=%23FF6F00" width="60" height="60"></a>    
     <a href="https://keras.io/"><img alt="keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="60" height="60"></a>
     <a href="https://pytorch.org/"><img alt="PyTorch" src="https://devicon-website.vercel.app/api/pytorch/plain-wordmark.svg" width="60" height="60"></a>
-    <a href="https://www.langchain.com/"><img alt="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="60" height="60"></a>
+    <a href="https://www.langchain.com/"><img alt="LangChain" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzp30XASXzPGrU2z1yjrI5WUriI-Iz2N1jw&s" width="60" height="60"></a>
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://devicon-website.vercel.app/api/fastapi/plain-wordmark.svg?color=%234BDCCF" width="60" height="60"></a>
     <a href="https://streamlit.io/"><img alt="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" width="60" height="60"></a>    
     <a href="#"><img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" height="60"></a>
